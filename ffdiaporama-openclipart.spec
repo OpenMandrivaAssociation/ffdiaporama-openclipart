@@ -4,11 +4,11 @@ Version:        1.0
 Release:        1
 License:        GPLv2
 Group:          Graphics
-
 URL:            http://ffdiaporama.tuxfamily.org/?page_id=9273
-BuildArch:      noarch
 
+BuildArch:      noarch
 BuildRequires:  openclipart = 0.18
+BuildRequires:  ffdiaporama >= 2.2
 
 Requires(preun):ffdiaporama >= 2.2
 Requires:       openclipart = 0.18
