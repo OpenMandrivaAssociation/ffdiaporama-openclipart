@@ -5,7 +5,7 @@ Release:        1
 License:        GPLv2
 Group:          Graphics
 
-URL:            http://ffdiaporama.tuxfamily.org/?page_id=9273
+URL:            https://ffdiaporama.tuxfamily.org/?page_id=9273
 BuildArch:      noarch
 
 BuildRequires:  openclipart = 0.18
